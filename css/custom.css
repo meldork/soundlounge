@@ -1,0 +1,39 @@
+/* just some notes about font families, colors...
+  Body Font options - all sans-serif.
+    Didact Gothic
+    PT Sans
+    Roboto
+    Nunito
+  Header/nav options - all sans-serif.
+    Roboto
+    Montserrat
+    Hind
+
+    Color themes.. gray/white/splash of colors?
+*/
+
+html {
+  background-color: #333;
+}
+
+.w3-navbar {
+  background-color: #111;
+  color: white;
+}
+
+.post {
+  max-width: 1000px;
+  background-color: white;
+  padding: 2em;
+}
+
+p, .desc {
+  font-family: 'PT Sans', Verdana, sans-serif;
+  font-size: 1.3em;
+  max-width: 600px;
+  margin: auto;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Montserrat';
+}
